@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "State Compression and Apparent Memory in Freight Markets"
+message: "If you use this repository, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: "Danilchenko"
+    given-names: "Elizaveta"
+version: 1.0.0
+date-released: 2026-09-07
+repository-code: "https://github.com/elizadnl/state-compression-freight-memory"
